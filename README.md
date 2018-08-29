@@ -1,2 +1,4 @@
 # Reverse_Geocoding
-This was a short script I started writing to locate the zipcodes of people who filled out a survey, but then realized they were based off IP address and not enrollment data when I found one in Morelos Mexico. Live and learn.
+The original intention of this script was to identify survey taker's zipcodes based on IP address so that we could infer demographic data.
+While the code works, we ended up abandoning the project because where they took the survey was not necessarily their home.
+For example, we found one in Morelos Mexico before we realized that this was not necessarily the data we were after. Live and learn.
